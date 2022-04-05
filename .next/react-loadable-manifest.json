@@ -1,0 +1,330 @@
+{
+  "../src/uena/home/CustomerMap1": [
+    {
+      "id": "./node_modules/apexcharts/dist/apexcharts.common.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/classCallCheck.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/createClass.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/inherits.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/typeof.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-apexcharts/dist/react-apexcharts.min.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./src/uena/home/CustomerMap1.js",
+      "file": "static/chunks/1.js"
+    }
+  ],
+  "../src/uena/home/CustomerMap2": [
+    {
+      "id": "./node_modules/apexcharts/dist/apexcharts.common.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/classCallCheck.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/createClass.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/inherits.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/typeof.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-apexcharts/dist/react-apexcharts.min.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./src/uena/home/CustomerMap2.js",
+      "file": "static/chunks/2.js"
+    }
+  ],
+  "../src/uena/home/CustomerMap3": [
+    {
+      "id": "./node_modules/apexcharts/dist/apexcharts.common.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/classCallCheck.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/createClass.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/inherits.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/typeof.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-apexcharts/dist/react-apexcharts.min.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./src/uena/home/CustomerMap3.js",
+      "file": "static/chunks/3.js"
+    }
+  ],
+  "../src/uena/home/CustomersChart": [
+    {
+      "id": "./node_modules/apexcharts/dist/apexcharts.common.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/classCallCheck.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/createClass.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/inherits.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/typeof.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/react-apexcharts/dist/react-apexcharts.min.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./src/uena/home/CustomersChart.js",
+      "file": "static/chunks/4.js"
+    }
+  ],
+  "../src/uena/home/DailyTarget": [
+    {
+      "id": "./node_modules/apexcharts/dist/apexcharts.common.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/classCallCheck.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/createClass.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/inherits.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/typeof.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/react-apexcharts/dist/react-apexcharts.min.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./src/uena/home/DailyTarget.js",
+      "file": "static/chunks/5.js"
+    }
+  ],
+  "../src/uena/home/Menu": [
+    {
+      "id": "./node_modules/apexcharts/dist/apexcharts.common.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/classCallCheck.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/createClass.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/inherits.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/typeof.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/react-apexcharts/dist/react-apexcharts.min.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./src/uena/home/Menu.js",
+      "file": "static/chunks/6.js"
+    }
+  ],
+  "../src/uena/home/OrderChart": [
+    {
+      "id": "./node_modules/apexcharts/dist/apexcharts.common.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/classCallCheck.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/createClass.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/inherits.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/next/node_modules/@babel/runtime/helpers/esm/typeof.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/react-apexcharts/dist/react-apexcharts.min.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./src/uena/home/OrderChart.js",
+      "file": "static/chunks/7.js"
+    }
+  ],
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/0.js"
+    }
+  ]
+}
